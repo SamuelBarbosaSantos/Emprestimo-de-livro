@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\3MTEC\\Desktop\\ls\\Projeto_Emprestimo\\",
+  "WorkspaceRootPath": "C:\\Users\\3MTEC\\Desktop\\Livro\\Emprestimo-de-livro\\Projeto_Emprestimo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED60626B-3668-44A7-B80A-12A361198C62}|Projeto_Emprestimo\\Projeto_Emprestimo.csproj|c:\\users\\3mtec\\desktop\\ls\\projeto_emprestimo\\projeto_emprestimo\\repository\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED60626B-3668-44A7-B80A-12A361198C62}|Projeto_Emprestimo\\Projeto_Emprestimo.csproj|c:\\users\\3mtec\\desktop\\livro\\emprestimo-de-livro\\projeto_emprestimo\\projeto_emprestimo\\repository\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED60626B-3668-44A7-B80A-12A361198C62}|Projeto_Emprestimo\\Projeto_Emprestimo.csproj|solutionrelative:projeto_emprestimo\\repository\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED60626B-3668-44A7-B80A-12A361198C62}|Projeto_Emprestimo\\Projeto_Emprestimo.csproj|c:\\users\\3mtec\\desktop\\ls\\projeto_emprestimo\\projeto_emprestimo\\repository\\contract\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED60626B-3668-44A7-B80A-12A361198C62}|Projeto_Emprestimo\\Projeto_Emprestimo.csproj|c:\\users\\3mtec\\desktop\\livro\\emprestimo-de-livro\\projeto_emprestimo\\projeto_emprestimo\\repository\\contract\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED60626B-3668-44A7-B80A-12A361198C62}|Projeto_Emprestimo\\Projeto_Emprestimo.csproj|solutionrelative:projeto_emprestimo\\repository\\contract\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED60626B-3668-44A7-B80A-12A361198C62}|Projeto_Emprestimo\\Projeto_Emprestimo.csproj|c:\\users\\3mtec\\desktop\\ls\\projeto_emprestimo\\projeto_emprestimo\\projeto_emprestimo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{ED60626B-3668-44A7-B80A-12A361198C62}|Projeto_Emprestimo\\Projeto_Emprestimo.csproj|c:\\users\\3mtec\\desktop\\livro\\emprestimo-de-livro\\projeto_emprestimo\\projeto_emprestimo\\projeto_emprestimo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{ED60626B-3668-44A7-B80A-12A361198C62}|Projeto_Emprestimo\\Projeto_Emprestimo.csproj|solutionrelative:projeto_emprestimo\\projeto_emprestimo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED60626B-3668-44A7-B80A-12A361198C62}|Projeto_Emprestimo\\Projeto_Emprestimo.csproj|c:\\users\\3mtec\\desktop\\ls\\projeto_emprestimo\\projeto_emprestimo\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED60626B-3668-44A7-B80A-12A361198C62}|Projeto_Emprestimo\\Projeto_Emprestimo.csproj|c:\\users\\3mtec\\desktop\\livro\\emprestimo-de-livro\\projeto_emprestimo\\projeto_emprestimo\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED60626B-3668-44A7-B80A-12A361198C62}|Projeto_Emprestimo\\Projeto_Emprestimo.csproj|solutionrelative:projeto_emprestimo\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED60626B-3668-44A7-B80A-12A361198C62}|Projeto_Emprestimo\\Projeto_Emprestimo.csproj|c:\\users\\3mtec\\desktop\\ls\\projeto_emprestimo\\projeto_emprestimo\\models\\itens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED60626B-3668-44A7-B80A-12A361198C62}|Projeto_Emprestimo\\Projeto_Emprestimo.csproj|c:\\users\\3mtec\\desktop\\livro\\emprestimo-de-livro\\projeto_emprestimo\\projeto_emprestimo\\models\\itens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED60626B-3668-44A7-B80A-12A361198C62}|Projeto_Emprestimo\\Projeto_Emprestimo.csproj|solutionrelative:projeto_emprestimo\\models\\itens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED60626B-3668-44A7-B80A-12A361198C62}|Projeto_Emprestimo\\Projeto_Emprestimo.csproj|c:\\users\\3mtec\\desktop\\ls\\projeto_emprestimo\\projeto_emprestimo\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED60626B-3668-44A7-B80A-12A361198C62}|Projeto_Emprestimo\\Projeto_Emprestimo.csproj|c:\\users\\3mtec\\desktop\\livro\\emprestimo-de-livro\\projeto_emprestimo\\projeto_emprestimo\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED60626B-3668-44A7-B80A-12A361198C62}|Projeto_Emprestimo\\Projeto_Emprestimo.csproj|solutionrelative:projeto_emprestimo\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED60626B-3668-44A7-B80A-12A361198C62}|Projeto_Emprestimo\\Projeto_Emprestimo.csproj|c:\\users\\3mtec\\desktop\\ls\\projeto_emprestimo\\projeto_emprestimo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{ED60626B-3668-44A7-B80A-12A361198C62}|Projeto_Emprestimo\\Projeto_Emprestimo.csproj|c:\\users\\3mtec\\desktop\\livro\\emprestimo-de-livro\\projeto_emprestimo\\projeto_emprestimo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{ED60626B-3668-44A7-B80A-12A361198C62}|Projeto_Emprestimo\\Projeto_Emprestimo.csproj|solutionrelative:projeto_emprestimo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -38,17 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LivroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\ls\\Projeto_Emprestimo\\Projeto_Emprestimo\\Repository\\LivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Livro\\Emprestimo-de-livro\\Projeto_Emprestimo\\Projeto_Emprestimo\\Repository\\LivroRepository.cs",
               "RelativeDocumentMoniker": "Projeto_Emprestimo\\Repository\\LivroRepository.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\ls\\Projeto_Emprestimo\\Projeto_Emprestimo\\Repository\\LivroRepository.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Livro\\Emprestimo-de-livro\\Projeto_Emprestimo\\Projeto_Emprestimo\\Repository\\LivroRepository.cs",
               "RelativeToolTip": "Projeto_Emprestimo\\Repository\\LivroRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwD4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-27T13:27:29.898Z",
               "EditorCaption": ""
@@ -57,9 +61,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ILivroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\ls\\Projeto_Emprestimo\\Projeto_Emprestimo\\Repository\\Contract\\ILivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Livro\\Emprestimo-de-livro\\Projeto_Emprestimo\\Projeto_Emprestimo\\Repository\\Contract\\ILivroRepository.cs",
               "RelativeDocumentMoniker": "Projeto_Emprestimo\\Repository\\Contract\\ILivroRepository.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\ls\\Projeto_Emprestimo\\Projeto_Emprestimo\\Repository\\Contract\\ILivroRepository.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Livro\\Emprestimo-de-livro\\Projeto_Emprestimo\\Projeto_Emprestimo\\Repository\\Contract\\ILivroRepository.cs",
               "RelativeToolTip": "Projeto_Emprestimo\\Repository\\Contract\\ILivroRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,10 +73,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Projeto_Emprestimo",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\ls\\Projeto_Emprestimo\\Projeto_Emprestimo\\Projeto_Emprestimo.csproj",
+              "Title": "Projeto_Emprestimo.csproj",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Livro\\Emprestimo-de-livro\\Projeto_Emprestimo\\Projeto_Emprestimo\\Projeto_Emprestimo.csproj",
               "RelativeDocumentMoniker": "Projeto_Emprestimo\\Projeto_Emprestimo.csproj",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\ls\\Projeto_Emprestimo\\Projeto_Emprestimo\\Projeto_Emprestimo.csproj",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Livro\\Emprestimo-de-livro\\Projeto_Emprestimo\\Projeto_Emprestimo\\Projeto_Emprestimo.csproj",
               "RelativeToolTip": "Projeto_Emprestimo\\Projeto_Emprestimo.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -80,16 +84,12 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "emprestimo.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\ls\\Projeto_Emprestimo\\Projeto_Emprestimo\\Models\\emprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Livro\\Emprestimo-de-livro\\Projeto_Emprestimo\\Projeto_Emprestimo\\Models\\emprestimo.cs",
               "RelativeDocumentMoniker": "Projeto_Emprestimo\\Models\\emprestimo.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\ls\\Projeto_Emprestimo\\Projeto_Emprestimo\\Models\\emprestimo.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Livro\\Emprestimo-de-livro\\Projeto_Emprestimo\\Projeto_Emprestimo\\Models\\emprestimo.cs",
               "RelativeToolTip": "Projeto_Emprestimo\\Models\\emprestimo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -100,9 +100,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Itens.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\ls\\Projeto_Emprestimo\\Projeto_Emprestimo\\Models\\Itens.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Livro\\Emprestimo-de-livro\\Projeto_Emprestimo\\Projeto_Emprestimo\\Models\\Itens.cs",
               "RelativeDocumentMoniker": "Projeto_Emprestimo\\Models\\Itens.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\ls\\Projeto_Emprestimo\\Projeto_Emprestimo\\Models\\Itens.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Livro\\Emprestimo-de-livro\\Projeto_Emprestimo\\Projeto_Emprestimo\\Models\\Itens.cs",
               "RelativeToolTip": "Projeto_Emprestimo\\Models\\Itens.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -113,9 +113,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Livro.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\ls\\Projeto_Emprestimo\\Projeto_Emprestimo\\Models\\Livro.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Livro\\Emprestimo-de-livro\\Projeto_Emprestimo\\Projeto_Emprestimo\\Models\\Livro.cs",
               "RelativeDocumentMoniker": "Projeto_Emprestimo\\Models\\Livro.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\ls\\Projeto_Emprestimo\\Projeto_Emprestimo\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Livro\\Emprestimo-de-livro\\Projeto_Emprestimo\\Projeto_Emprestimo\\Models\\Livro.cs",
               "RelativeToolTip": "Projeto_Emprestimo\\Models\\Livro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -126,9 +126,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\ls\\Projeto_Emprestimo\\Projeto_Emprestimo\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Livro\\Emprestimo-de-livro\\Projeto_Emprestimo\\Projeto_Emprestimo\\appsettings.json",
               "RelativeDocumentMoniker": "Projeto_Emprestimo\\appsettings.json",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\ls\\Projeto_Emprestimo\\Projeto_Emprestimo\\appsettings.json",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Livro\\Emprestimo-de-livro\\Projeto_Emprestimo\\Projeto_Emprestimo\\appsettings.json",
               "RelativeToolTip": "Projeto_Emprestimo\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
