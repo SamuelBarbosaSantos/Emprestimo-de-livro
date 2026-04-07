@@ -9,6 +9,6 @@ namespace Projeto_Emprestimo.Models
         [DisplayName("XYZ")]
         public string nomeLivro { get; set; }
         public string imagemLivro { get; set; }
-        public string quantidade { get0; set; }
+        public string quantidade { get; set; }
     }
 }
