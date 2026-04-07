@@ -26,6 +26,12 @@
                 <input type="file" name="file" id="file" /><br />
                 <span asp-validation-for="imagemLivro" class="text-danger"></span>
             </div>
+            @*VAMOS ADD ESTA MENSAGEM*@
+            @ViewBag.msg
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Cadastrar" class="btn btn-sucess" />
+            </div>
         </form>
     </div>
 </div>
